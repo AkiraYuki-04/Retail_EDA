@@ -1,0 +1,6 @@
+Order ID,Product,Category,Quantity,Price,Sales,Profit,Customer,Date
+1001,Laptop,Electronics,1,1000,1000,200,Alice,2023-01-10
+1002,Smartphone,Electronics,2,500,1000,150,Bob,2023-01-15
+1003,Tablet,Electronics,3,200,600,100,Charlie,2023-02-10
+1004,Headphones,Accessories,2,100,200,50,David,2023-02-12
+1005,Smartwatch,Electronics,1,300,300,80,Eve,2023-03-01
